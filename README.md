@@ -51,5 +51,5 @@
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funnyyanne&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="funnyyanne" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=funnyyanne&show_icons=true&locale=en&theme=tokyonight" alt="funnyyanne" /></p>
+<p>&nbsp;<img  align="right" src="https://github-readme-stats.vercel.app/api?username=funnyyanne&show_icons=true&locale=en&theme=tokyonight" alt="funnyyanne" /></p>
 
