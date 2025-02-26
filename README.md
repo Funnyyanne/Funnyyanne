@@ -17,6 +17,7 @@
     <th>Backend</th>
   </tr>
   <tr>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funnyyanne&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="funnyyanne" /></p>
     <td style="padding: 10px;">
       <div>
          <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></br>
@@ -45,6 +46,6 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funnyyanne&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="funnyyanne" /></p>
+
 
 
